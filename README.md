@@ -11,8 +11,8 @@
   - jest : jest@26.6.3
 
 ## 빌드 및 실행
-  - start : npm start 
-  - build : npm run build
+  - start : yarn start 
+  - build : yarn build
   
 ## 해결 전략
        
